@@ -19,3 +19,10 @@ Amy:  <br/>
 Esther: UX Researcher<br/>
 Jonathan: DevOps Engineer <br/>
 James: Cloud Consultant <br/>
+|Career Aspect|Amy's job here|UX Researcher|DevOps Engineer|Cloud Consultant|
+|---|---|---|---|---|
+|Location| | | | |
+|Flexibility| | | | |
+|Variety of work| | | | |
+|Amount of creativity| | | | |
+|Prospects for travel| | | | |
