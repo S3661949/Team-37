@@ -2,10 +2,10 @@
 
 IT Technologies
 
-Esther: Machine Learning
-Jonathan: Clouds, Services, Servers
-James: Blockchain & Cryptocurrencies
-Amy: 
+Esther: Machine Learning <br />
+Jonathan: Clouds, Services, Servers <br />
+James: Blockchain & Cryptocurrencies <br />
+Amy:  <br />
 
 Project Ideas:
 
