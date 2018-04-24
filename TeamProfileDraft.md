@@ -75,7 +75,7 @@ Myers-Briggs Test: ESTJ-A <br/>
 VARK: V-10 / A-7 / RW-6 / K-7 <br/>
 Creativity Score: 66.43 <br/>
 <br/>
-This information is helpful to the group as it provides insight on our individual personalities and how we like to learn. This insight helps us divide roles to the individuals in the groups and helps us understand how we are best to collaborate with each other to complete this assessment.
+This information is helpful to the group as it provides insight on our individual personalities and how we like to learn. This insight helps us divide roles to the individuals in the group and helps us understand how we are best to collaborate with each other to complete this assessment.
 
 <br/>
 
