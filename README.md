@@ -5,7 +5,7 @@ IT Technologies
 Esther: Machine Learning <br />
 Jonathan: Clouds, Services, Servers <br />
 James: Blockchain & Cryptocurrencies <br />
-Amy:  <br />
+Amy: Raspberry Pis, Arduinos, Makey Makeys and other small computing devices <br />
 
 Project Ideas:
 
