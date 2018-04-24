@@ -76,6 +76,7 @@ Amy: Scrum Master / Agile Project Manager <br/>
 Esther: UX Researcher<br/>
 Jonathan: DevOps Engineer <br/>
 James: Cloud Consultant <br/>
+
 | Career Aspect | Scrum Master / Agile Project Manager | UX Researcher | DevOps Engineer | Cloud Consultant |
 | --- | --- | --- | --- | --- |
 | Location | South East Suburbs | | Melbourne CBD | |
