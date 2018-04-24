@@ -63,7 +63,10 @@ Your results indicate that you use problem-focused strategies in order to cope w
 
 
 Esther: <br/>
-Jonathan: <br/>
+
+Jonathan: I am an INTJ, which means that within groups and the workplace I work extremely well in small groups of like-minded individuals. By having an initial brainstorming session and leaving everyone to do their part will get the best results. <br/>
+
+I learn through visual cues, meaning reading and writing down information rather than listening. It also means that establishing a clear purpose and overall plan for any projects is important for me to gain understanding.
 James:  <br/>
 
 Ideal Jobs:
