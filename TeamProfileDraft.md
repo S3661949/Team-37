@@ -6,7 +6,8 @@ Esther: s3718706. I was born in Australia to Vietnamese immigrant parents. My ho
 Jonathan: s3661949. I'm Australian, but my dad was born in Germany and my mum in New Zealand. I play basketball, video games
 and read. I'm interested in System Administration, Data Analytics and Software Development. I worked in the IT department at
 McKinnon Secondary College as an Intern in 2017. I also studied some IT subjects at secondary school. <br/>
-James:  <br/>
+James: s3724958. I'm Australian, my mother is Filipino and my father is English. My hobbies are health, fitness and drinking wine. I'm interested in cryptocurrency, data analysis & mining, cloud computing and app / web design. I've had exposure to multiple fields of IT through previous studies and freelance work, ranging from programming, databases, web development and design.  
+<br/>
 
 Team Profile: <br/>
 Amy: Myers-Briggs test
@@ -69,7 +70,14 @@ Jonathan: I am an INTJ, which means that within groups and the workplace I work 
 I learn through visual cues, meaning reading and writing down information rather than listening. It also means that establishing a clear purpose and overall plan for any projects is important for me to gain understanding.
 
 Lastly, I completed a free online IQ test which said I had an above average IQ. This meanst that I can offer good ideas to the group.</br>
-James:  <br/>
+James: <br/>
+Myers-Briggs Test: ESTJ-A <br/>
+VARK: V-10 / A-7 / RW-6 / K-7 <br/>
+Creativity Score: 66.43 <br/>
+<br/>
+This information is helpful to the group as it provides insight on our individual personalities and how we like to learn. This insight helps us divide roles to the individuals in the groups and helps us understand how we are best to collaborate with each other to complete this assessment.
+
+<br/>
 
 Ideal Jobs:
 Amy: Scrum Master / Agile Project Manager <br/>
