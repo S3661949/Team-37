@@ -73,8 +73,8 @@ Jonathan: DevOps Engineer <br/>
 James: Cloud Consultant <br/>
 | Career Aspect | Scrum Master / Agile Project Manager | UX Researcher | DevOps Engineer | Cloud Consultant |
 | --- | --- | --- | --- | --- |
-|Location|South East Suburbs| |Melbourne CBD | |
-|Flexibility|Four day week flexible | | 5 Days, not on weekends | |
-|Variety of work|Management in all areas| | All stages of development and deployment of an application | |
-|Amount of creativity|High| | Medium - High | |
-|Prospects for travel|Agreeable| | Would like to travel for work | |
+| Location | South East Suburbs | | Melbourne CBD | |
+| Flexibility | Four day week flexible | | 5 Days, not on weekends | |
+| Variety of work | Management in all areas | | All stages of development and deployment of an application | |
+| Amount of creativity | High | | Medium - High | |
+| Prospects for travel | Agreeable | | Would like to travel for work | |
