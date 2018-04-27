@@ -52,22 +52,41 @@ This information is helpful to the group as it provides insight on our individua
 <br/>
 
 Ideal Jobs:
-Amy: Scrum Master / Agile Project Manager <br/>
-Esther: UX Researcher<br/>
-Jonathan: DevOps Engineer <br/>
-James: Cloud Consultant <br/>
+Amy: 
+Career aspect: SCRUM master
+Location: South East Suburbs
+Flexibility: Four-day week flexible
+Variety of work: Management in all areas
+Amount of creativity: High
+Prospects for travel: Agreeable
+<br/>
 
-<p>
-| Name                | Amy                    | Esther            | Jonahan                       | James              |<br>
-| Career Aspect       | Scrum Master           | UX Researcher     | DevOps Engineer               | Cloud Consultant   |<br>
-| ---                 | ---                    | ---               | ---                           | ---                |<br>
-| Location            | South East Suburbs     |                   | Melbourne CBD                 |                    |<br>
-| Flexibility         | Four day week flexible |                   | 5 Days, not on weekends       |                    |<br>
-| Variety of work     | Management in all areas|                   | All stages of development &   |                    |<br>
-|                     |                        |                   | deployment of an application  |                    |<br>
-| Amount of creativity| High                   |                   | Medium - High                 |                    |<br>
-| Prospects for travel| Agreeable              |                   | Would like to travel for work |                    |<br>
-<p>
+Esther: 
+Career aspect: UX Researcher
+Location: 
+Flexibility: 
+Variety of work: 
+Amount of creativity: 
+Prospects for travel: 
+<br/>
+
+Jonathan:  
+Career aspect: DevOps Engineer
+Location: Melbourne CBD	
+Flexibility: 5 Days, not on weekends	
+Variety of work: All stages of development & deployment of an application
+Amount of creativity: Medium - High
+Prospects for travel: Would like to travel for work
+<br/>
+
+James: 
+Career aspect: Cloud Consultant 
+Location: 
+Flexibility: 
+Variety of work: 
+Amount of creativity: 
+Prospects for travel:<br/>
+
 
 Amy's ideal job as a SCRUM master is centred around dynamic group management. Jonathan's ideal job of DevOps Engineer includes working with systems administration and software development. Esther's Ideal job as user experience researcher requires researching user attitudes and behaviours on products and systems. 
 And finally, James' ideal job of a cloud consultant involves working in different parts of the IT Industry ranging from cloud solutions, big data, analytics, infrastructure design / migration, development life cycles and machine learning.
