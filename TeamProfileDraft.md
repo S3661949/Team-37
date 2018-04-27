@@ -31,13 +31,17 @@ Coping and stress management skills test
 86% Problem-Focused Coping Vs 14% Emotion-Focused Coping
  <br/>
 
+
 Esther: <br/>
+
 
 Jonathan: I am an INTJ, which means that within groups and the workplace I work extremely well in small groups of like-minded individuals. By having an initial brainstorming session and leaving everyone to do their part will get the best results. <br/>
 
 I learn through visual cues, meaning reading and writing down information rather than listening. It also means that establishing a clear purpose and overall plan for any projects is important for me to gain understanding.
 
 Lastly, I completed a free online IQ test which said I had an above average IQ. This meanst that I can offer good ideas to the group.</br>
+
+
 James: <br/>
 Myers-Briggs Test: ESTJ-A - The Executive (Role: Sentinel, Strategy: People Mastery) <br/>
 VARK: Visual-10 / Aural-7 / Read/Write-6 / Kinesthetic-7 (Multimodal Learning Preference)<br/>
@@ -54,15 +58,15 @@ Jonathan: DevOps Engineer <br/>
 James: Cloud Consultant <br/>
 
 
-| Name                | Amy                    | Esther            | Jonahan                       | James              |
-| Career Aspect       | Scrum Master           | UX Researcher     | DevOps Engineer               | Cloud Consultant   |
-| ---                 | ---                    | ---               | ---                           | ---                |
-| Location            | South East Suburbs     |                   | Melbourne CBD                 |                    |
-| Flexibility         | Four day week flexible |                   | 5 Days, not on weekends       |                    |
-| Variety of work     | Management in all areas|                   | All stages of development &   |                    |
-|                     |                        |                   | deployment of an application  |                    | 
-| Amount of creativity| High                   |                   | Medium - High                 |                    | 
-| Prospects for travel| Agreeable              |                   | Would like to travel for work |                    |
+| Name                | Amy                    | Esther            | Jonahan                       | James              |<br>
+| Career Aspect       | Scrum Master           | UX Researcher     | DevOps Engineer               | Cloud Consultant   |<br>
+| ---                 | ---                    | ---               | ---                           | ---                |<br>
+| Location            | South East Suburbs     |                   | Melbourne CBD                 |                    |<br>
+| Flexibility         | Four day week flexible |                   | 5 Days, not on weekends       |                    |<br>
+| Variety of work     | Management in all areas|                   | All stages of development &   |                    |<br>
+|                     |                        |                   | deployment of an application  |                    |<br>
+| Amount of creativity| High                   |                   | Medium - High                 |                    |<br>
+| Prospects for travel| Agreeable              |                   | Would like to travel for work |                    |<br>
 
 
 Amy's ideal job as a SCRUM master is centred around dynamic group management. Jonathan's ideal job of DevOps Engineer includes working with systems administration and software development. Esther's Ideal job as user experience researcher requires researching user attitudes and behaviours on products and systems. 
