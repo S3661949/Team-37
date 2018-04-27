@@ -57,7 +57,7 @@ Esther: UX Researcher<br/>
 Jonathan: DevOps Engineer <br/>
 James: Cloud Consultant <br/>
 
-
+<p>
 | Name                | Amy                    | Esther            | Jonahan                       | James              |<br>
 | Career Aspect       | Scrum Master           | UX Researcher     | DevOps Engineer               | Cloud Consultant   |<br>
 | ---                 | ---                    | ---               | ---                           | ---                |<br>
@@ -67,7 +67,7 @@ James: Cloud Consultant <br/>
 |                     |                        |                   | deployment of an application  |                    |<br>
 | Amount of creativity| High                   |                   | Medium - High                 |                    |<br>
 | Prospects for travel| Agreeable              |                   | Would like to travel for work |                    |<br>
-
+<p>
 
 Amy's ideal job as a SCRUM master is centred around dynamic group management. Jonathan's ideal job of DevOps Engineer includes working with systems administration and software development. Esther's Ideal job as user experience researcher requires researching user attitudes and behaviours on products and systems. 
 And finally, James' ideal job of a cloud consultant involves working in different parts of the IT Industry ranging from cloud solutions, big data, analytics, infrastructure design / migration, development life cycles and machine learning.
