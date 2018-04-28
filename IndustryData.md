@@ -1,49 +1,49 @@
 Industry Data
 
 
-Name: Amy
-Job title:
-Rank:
-General skills:
-IT-specific skills:
-IT-specific skills set rank demand:
-General skills set rank demand:
-Three highest ranked IT-specific skills​  not in your required skill set:
-Three highest ranked general skills​ not in your required skill set:
-has your opinion of your ideal job changed?:
+Name: Amy <br>
+Job title: <br>
+Rank: <br>
+General skills: <br>
+IT-specific skills: <br>
+IT-specific skills set rank demand: <br>
+General skills set rank demand: <br>
+Three highest ranked IT-specific skills not in your required skill set: <br>
+Three highest ranked general skills not in your required skill set: <br>
+has your opinion of your ideal job changed?: <br>
 
 
-Name: Esther
-Job title:
-Rank:
-General skills:
-IT-specific skills:
-IT-specific skills set rank demand:
-General skills set rank demand:
-Three highest ranked IT-specific skills​  not in your required skill set:
-Three highest ranked general skills​ not in your required skill set:
-has your opinion of your ideal job changed?:
+Name: Esther <br>
+Job title: <br>
+Rank: <br>
+General skills: <br>
+IT-specific skills: <br>
+IT-specific skills set rank demand: <br>
+General skills set rank demand: <br>
+Three highest ranked IT-specific skills not in your required skill set: <br>
+Three highest ranked general skills not in your required skill set: <br>
+has your opinion of your ideal job changed?: <br>
 
 
-Name: Jonathan
-Job title:
-Rank:
-General skills:
-IT-specific skills:
-IT-specific skills set rank demand:
-General skills set rank demand:
-Three highest ranked IT-specific skills​  not in your required skill set:
-Three highest ranked general skills​ not in your required skill set:
-has your opinion of your ideal job changed?:
+Name: Jonathan <br>
+Job title: <br>
+Rank: <br>
+General skills: <br>
+IT-specific skills: <br>
+IT-specific skills set rank demand: <br>
+General skills set rank demand: <br>
+Three highest ranked IT-specific skills not in your required skill set: <br>
+Three highest ranked general skills not in your required skill set: <br>
+has your opinion of your ideal job changed?: <br>
 
 
-Name: James
-Job title:
-Rank:
-General skills:
-IT-specific skills:
-IT-specific skills set rank demand:
-General skills set rank demand:
-Three highest ranked IT-specific skills​  not in your required skill set:
-Three highest ranked general skills​ not in your required skill set:
-has your opinion of your ideal job changed?:
+Name: James <br>
+Job title: <br>
+Rank: <br>
+General skills: <br>
+IT-specific skills: <br>
+IT-specific skills set rank demand: <br>
+General skills set rank demand: <br>
+Three highest ranked IT-specific skills not in your required skill set: <br>
+Three highest ranked general skills not in your required skill set: <br>
+has your opinion of your ideal job changed?: <br>
