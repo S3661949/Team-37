@@ -32,7 +32,14 @@ Coping and stress management skills test
  <br/>
 
 
-Esther: <br/>
+Esther:Myer Brigs Test INFP - works well in groups of people who have similar traits. I am good at observation and listening to peers and willing to give everyone a fair go as I am open minded to new ideas.
+I am mainly a 55% visual and 40% tactile based learner as live demonstrations, walkthroughs and practice helps me grasp concepts faster. 
+Open-mindedness 64%
+Conscientiousness 21%
+Extraversion 14%
+Agreeable 73%
+Negative Emotionality 61%
+<br/>
 
 
 Jonathan: I am an INTJ, which means that within groups and the workplace I work extremely well in small groups of like-minded individuals. By having an initial brainstorming session and leaving everyone to do their part will get the best results. <br/>
@@ -63,11 +70,11 @@ Prospects for travel: Agreeable
 
 Esther: 
 Career aspect: UX Researcher
-Location: 
-Flexibility: 
-Variety of work: 
-Amount of creativity: 
-Prospects for travel: 
+Location: City/South East Suburbs
+Flexibility: 5 work days
+Variety of work: all types of research and analysis
+Amount of creativity: medium-high
+Prospects for travel: Not prefered
 <br/>
 
 Jonathan:  
