@@ -20,4 +20,12 @@ Currently, cloud services are used for many different applications. They can be 
 
 There are quite a few benefits to be found in cloud computing compared to traditional, local computing.
 
-Cloud computing in its modern sense was first realised in 2006, when Google CEO Eric Schmidt used the term at a conferene. The main technology that made
+Cloud computing in its modern sense was first realised in 2006, when Google CEO Eric Schmidt used the term at a conferene. The main technologies that helped realise cloud computing as a viable concept were the advances in storage, networking and the Internet.
+
+The advances in storage mean that hard disks have become cheaper, while also becoming more spacious. Network infrastructure advances allow for massive data traffic. The Internet is rather self explanatory, however we have seen and should continue to see increases in accessibility and decrease in price.
+
+The cloud will impact a great deal of working industries and regular everyday living. The increases in services, infrastructure and software offered completely online without a physical presence required mean that remote job opportunities will continue to grow in numbers of employees, as well as locations. The cloud will also change the way people purchase applications and products related to technology for their personal lives.
+
+We've already begun to see this, in the large increase in subscription based models such as Adobe Creative Cloud or Spotify. It should also change the needs of some IT roles in-house at organisations, with more options for outsourcing due to cloud based computing. This could vary from paying for storage space, to outsourcing entire IT departments.
+
+However, all users of online applications will be affected by cloud computing, due to the way that it will change pricing structures for companies that are selling applications for use in people's personal lives. This has already been seen in the music industry. iTunes, which had one time purchases for songs which had to be downloaded onto the device you wished, was eventually overtaken by other music streaming services, and had to alter their business model. Again, this is an adjustment in payment structure to a subscription system and allowing users to stream music on their device.
