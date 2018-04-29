@@ -2,15 +2,16 @@ Industry Data
 
 
 Name: Amy <br>
-Job title: <br>
-Rank: <br>
-General skills: <br>
-IT-specific skills: <br>
-IT-specific skills set rank demand: <br>
-General skills set rank demand: <br>
-Three highest ranked IT-specific skills not in your required skill set: <br>
-Three highest ranked general skills not in your required skill set: <br>
-has your opinion of your ideal job changed?: <br>
+Job title: SCRUM Master<br>
+Rank: Not present (Although similar title IT Manager 10)<br>
+General skills: Communication skills, problem solving skills, team work, leadership, creativity, multi-tasking, management, team building, decision making and English<br>
+IT-specific skills: Project management, Microsoft windows, graphic design, customer service, website production, Microsoft office, JAVA and git.<br>
+IT-specific skills set rank demand: JAVA #3, Microsoft windows #4, project management #5, graphic design #10, costumer service #14, website production #17, Microsoft office #18 and git #21.<br>
+General skills set rank demand: Communication skills #1, problem solving #4, teamwork #5, Creativity #9, leadership #11, team building #18, management #19, Multi-tasking #20, English #21 and decision making #25. <br>
+Three highest ranked IT-specific skills not in your required skill set: SQL, JavaScript and SAP.<br>
+Three highest ranked general skills not in your required skill set: Organisational skills, writing and troubleshooting.<br>
+has your opinion of your ideal job changed?: Yes and no. I am not sure I want to be a SCRUM master but I definitely want to work in IT management, considering this is a type of management style I would definitely like to look into it.
+<br>
 
 
 Name: Esther <br>
