@@ -25,6 +25,6 @@ Amy:
 
 Esther:
 
-Jonathan:
+Jonathan: DevOps Engineer
 
 James:
