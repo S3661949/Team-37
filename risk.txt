@@ -1,0 +1,10 @@
+Risks 
+Project development risks
+	ATOM: The software can crash and any unsaved code will be lost which becomes time consuming to rewrite the code.
+GITHUB: Can be hard for beginners to get used to which may reduce the efficiency of work, frustration when members need to put in files and allow several members to update files. Files can only be updates once at a time, members cannot work on a file simultaneously. If files are to be updated, they must be named the same as the pre uploaded file or it’ll be uploaded as a seperate file. Some members were new to using Github and found it a frustrating experience when learning to use Github.  
+	Database(MS Access or may be hosted using AWS): Mostly due to human errors where relationship tables may be incorrectly linked which can cause problems with the functionality of the database. Also putting in the wrong datatype in table fields that do not match their corresponding counterpart would also create errors in the database will not allow it to work.
+<br></br>
+Risks of the project itself 
+	The school which withholds the information is responsible for the client’s data. The privacy of information of the client (guardians & students who will use the system) which includes student academic & health records, parental access(passwords and usernames) should be protected and secure under the privacy act 1988.
+	There may be a breach of trust between organisation(school) and client(students & guardians). If the information is leaked or misused by the school(using student information for anything aside from it’s primary focus) the school could face legal challenges. 
+	Databases and servers may be hacked, experience breakdowns or lose data. This would take a long time to recover but can be prevented with a suitable DDRP (backup plan).
