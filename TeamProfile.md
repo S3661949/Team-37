@@ -21,10 +21,17 @@ Hopefully this will encourage more collaboration and discussion of ideas.
 
 Career plans: <br/>
 
-Amy:
+Amy: SCRUM master
 
-Esther:
+Esther: UX Researcher
 
 Jonathan: DevOps Engineer
 
-James:
+James: Cloud Consultant
+
+Amy's ideal job as a SCRUM master is centred around dynamic group management. Jonathan's ideal job of DevOps Engineer includes working with systems administration and software development. Esther's Ideal job as user experience researcher requires researching user attitudes and behaviours on products and systems.
+And finally, James' ideal job of a cloud consultant involves working in different parts of the IT Industry ranging from cloud solutions, big data, analytics, infrastructure design / migration, development life cycles and machine learning.
+
+Considering these different career paths it can be seen that all of group 37s dream jobs have a need for communication and crossover between a user or client to information that can be transformed to be useful.
+
+Some differences between these jobs include the amount of back end work needed. Where Jonathans job clearly creates a solution to a problem, Esther's job requires more research to uncover potential problems to be solved. This is also in comparison to Amy's ideal job where understanding of backend work is required, however is more centred around communicating and delegation. More over, James' ideal job is similar to Amy's as a range of IT knowledge is required, however the focus is on the interaction between him and the client.
